@@ -188,6 +188,12 @@
   - **Github:** https://github.com/holman
   - **Blog / Site:** http://zachholman.com
 
+- [Ruairidh Carmichael](https://github.com/VideahGams)
+  - **Languages**: ![Lua](https://img.shields.io/badge/lang-Lua-blue.svg)
+  - **Accomplishments:** Top developer in the Löve game engine, helping bring it to new platforms
+  - **Github:** https://github.com/VideahGams
+  - **Blog / Site:** http://videah.xyz/
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
